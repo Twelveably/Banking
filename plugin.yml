@@ -1,0 +1,12 @@
+main: io.github.bagas123.banking.Main
+name: Banking
+version: 0.1A
+author: Orthexa
+description: 
+commands:
+  bank:
+    description: Bank
+    usage: /bank
+    permission: banking.bank
+    permission-message: You don't have the banking.bank permission.
+
